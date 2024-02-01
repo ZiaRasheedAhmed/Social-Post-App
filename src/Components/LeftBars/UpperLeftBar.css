@@ -1,0 +1,15 @@
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.blog{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px gray;
+    padding: 10px;
+    background-color: white;
+}

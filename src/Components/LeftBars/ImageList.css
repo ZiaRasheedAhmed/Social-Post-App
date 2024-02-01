@@ -1,0 +1,9 @@
+.image-list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.image-item {
+    width: 50px; 
+    height: auto; 
+}

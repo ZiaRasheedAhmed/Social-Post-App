@@ -1,0 +1,25 @@
+.list-bar {
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.item-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item-title {
+    font-weight: bold;
+}
+
+.item-progress {
+    background-color: #ddd;
+    border-radius: 5px;
+    height: 20px;
+    width: 100%;
+}
+
+
